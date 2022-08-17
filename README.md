@@ -40,24 +40,24 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 ---
 - Clone este repositório
    ~~~bash
-   $ git clone <https://github.com/Syggnus/primeiro_desafio_escribo.git>
+   git clone https://github.com/Syggnus/primeiro_desafio_escribo.git
    ~~~
 - Acesse a pasta do projeto no terminal/cmd
    ~~~bash
-   $ cd primeiro_desafio_escribo
+   cd primeiro_desafio_escribo
    ~~~
 
 - Instale as dependências
    ~~~bash
-   $ dart pub get
+   dart pub get
    ~~~
 - Vá para a pasta bin
    ~~~bash
-   $ cd bin
+   cd bin
    ~~~
 - Execute a aplicação
    ~~~bash
-   $ dart main.dart
+   dart main.dart
    ~~~
 
 
@@ -66,12 +66,12 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 - Clone este repositório
    ~~~bash
-   $ git clone <https://github.com/Syggnus/primeiro_desafio_escribo.git>
+   git clone https://github.com/Syggnus/primeiro_desafio_escribo.git
    ~~~
 
 - Acesse a pasta raiz do projeto no VSCode:
    ~~~bash
-      /primeiro_desafio_escribo
+   /primeiro_desafio_escribo
    ~~~
    
 - Instale no VSCode a Extensão do Dart
@@ -79,15 +79,15 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 - Abra o Terminal e instale as dependências
    ~~~bash
-   $ dart pub get
+   dart pub get
    ~~~
 - Vá para a pasta bin
    ~~~bash
-   $ cd bin
+   cd bin
    ~~~
 - Execute a aplicação
    ~~~bash
-   $ dart main.dart
+   dart main.dart
    ~~~
 ## 🔗 Tecnologia Usada
 ---
