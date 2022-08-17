@@ -1,8 +1,8 @@
 # 1º Desafio Escribo 
 
-![Licença](https://img.shields.io/github/license/Syggnus/desafio_escribo)
-![Issues](https://img.shields.io/github/issues/Syggnus/desafio_escribo)
-![Stars](https://img.shields.io/github/stars/Syggnus/desafio_escribo)
+![Licença](https://img.shields.io/github/license/Syggnus/primeiro_desafio_escribo)
+![Issues](https://img.shields.io/github/issues/Syggnus/primeiro_desafio_escribo)
+![Stars](https://img.shields.io/github/stars/Syggnus/primeiro_desafio_escribo)
 ## 🔗 Objetivo
 ---
 Implementar uma função que receba um número inteiro positivo e retorne o somatório de todos os valores inteiros divisíveis por 3 e 5 que sejam inferiores ao número passado.
@@ -37,46 +37,58 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 ### 🔗 Rodando no CMD / Terminal
 #### Com o SDK do Dart devidamente baixado e instalado na máquina, realize os seguintes passos para a execução do programa:
+---
+- Clone este repositório
+   ~~~bash
+   $ git clone <https://github.com/Syggnus/primeiro_desafio_escribo.git>
+   ~~~
+- Acesse a pasta do projeto no terminal/cmd
+   ~~~bash
+   $ cd primeiro_desafio_escribo
+   ~~~
 
-~~~bash
-# Clone este repositório
-$ git clone <https://github.com/Syggnus/desafio_escribo.git>
-
-# Acesse a pasta do projeto no terminal/cmd
-$ cd desafio_escribo
-
-# Instale as dependências
-$ dart pub get
-
-# Vá para a pasta bin
-$ cd bin
-
-# Execute a aplicação
-$ dart main.dart
-~~~
+- Instale as dependências
+   ~~~bash
+   $ dart pub get
+   ~~~
+- Vá para a pasta bin
+   ~~~bash
+   $ cd bin
+   ~~~
+- Execute a aplicação
+   ~~~bash
+   $ dart main.dart
+   ~~~
 
 
 ### 🔗 Rodando no Terminal do VSCode
 #### Com o VSCode devidamente baixado e instalado na máquina, realize os seguintes passos para a execução do programa:
-~~~bash
-# Clone este repositório
-$ git clone <https://github.com/Syggnus/desafio_escribo.git>
 
-# Acesse a pasta raiz do projeto no VSCode
-/desafio_escribo
-~~~
-#### Instale no VSCode a Extensão do Dart
----
+- Clone este repositório
+   ~~~bash
+   $ git clone <https://github.com/Syggnus/primeiro_desafio_escribo.git>
+   ~~~
+
+- Acesse a pasta raiz do projeto no VSCode:
+   ~~~bash
+      /primeiro_desafio_escribo
+   ~~~
+   
+- Instale no VSCode a Extensão do Dart
 ![ExtensãoDart](https://s1.o7planning.com/ru/12827/images/64403783.png)
 
-~~~bash
-# Abra o Terminal e instale as dependências
-$ dart pub get
-
-
-# Execute a aplicação
-$ dart main.dart
-~~~
+- Abra o Terminal e instale as dependências
+   ~~~bash
+   $ dart pub get
+   ~~~
+- Vá para a pasta bin
+   ~~~bash
+   $ cd bin
+   ~~~
+- Execute a aplicação
+   ~~~bash
+   $ dart main.dart
+   ~~~
 ## 🔗 Tecnologia Usada
 ---
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -94,4 +106,4 @@ Chuan Igor Ferreira Feitosa
 
 ## 🔗 Licença
 ---
-![Licença](https://img.shields.io/github/license/Syggnus/desafio_escribo) 
+![Licença](https://img.shields.io/github/license/Syggnus/primeiro_desafio_escribo) 
