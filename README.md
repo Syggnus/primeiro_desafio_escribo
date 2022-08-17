@@ -32,6 +32,8 @@ Implementar uma função que receba um número inteiro positivo e retorne o soma
 ### 🔗 Pré-requisitos
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 
+- [Git](https://git-scm.com)
+
 - [Dart](https://dart.dev/get-dart)
 
 - [VSCode](https://code.visualstudio.com/)
