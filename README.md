@@ -5,7 +5,7 @@
 ![Stars](https://img.shields.io/github/stars/Syggnus/primeiro_desafio_escribo)
 ## 🔗 Objetivo
 ---
-Implementar uma função que receba um número inteiro positivo e retorne o somatório de todos os valores inteiros divisíveis por 3 e 5 que sejam inferiores ao número passado.
+Implementar uma função que receba um número inteiro positivo e retorne o somatório de todos os valores inteiros divisíveis por 3 ou 5 que sejam inferiores ao número passado.
 ## 🔗 Status do Projeto
 ---
 [![Generic badge](https://img.shields.io/badge/Status-Concluido-<COLOR>.svg)](https://shields.io/)
@@ -21,6 +21,7 @@ Implementar uma função que receba um número inteiro positivo e retorne o soma
       * [Pré Requisitos](#pré-requisitos)
       * [Rodando no CMD / Terminal](#rodando-no-CMD-/-Terminal)
       * [Rodando no Terminal do VSCode](#rodando-no-Terminal-do-VSCode)
+   * [Teste](#teste)
    * [Tecnologias](#tecnologias)
    * [Autor](#autor)
    * [Licença](#licença)
@@ -89,6 +90,39 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
    ~~~bash
    dart main.dart
    ~~~
+   
+## 🔗 Teste
+---
+Quando iniciar a aplicação escolha qualquer número para o programa realizar a soma de todos os valores inteiros divisíveis por 3 ou 5 que sejam inferiores ao seu número escolhido.
+
+- Quando finalizar a operação será possível escolher outro número, se caso desejar:
+   ~~~bash
+   Digite uma das opções: (1 - Sim - sim - S - s)
+   ~~~
+
+- Caso não queira testar outro número e apenas finalizar o programa:
+   ~~~bash
+   Digite uma das opções: (2 - Não - não - nao - N - n)
+   ~~~
+
+Otimização
+- Quantidade de Dígitos:
+   - [ok] 1 Dígito
+   - [ok] 2 Dígitos
+   - [ok] 3 Dígitos
+   - [ok] 4 Dígito
+   - [ok] 5 Dígitos
+   - [ok] 6 Dígitos
+   - [ok] 7 Dígito
+   - [ok] 8 Dígitos
+   - [ok] 9 Dígitos
+   - [] 10 Dígitos
+   - [] +10 Dígitos
+
+Teste realizado em um Processador AMD Ryzen 5 1600 AF, 3.2GHz e MRam DDR4 16Gb(2x8) 2666 Mhz:
+- A partir de 9 Dígitos começamos a sentir um pouco a demora no tempo de processamento.
+- A partir de 10 Dígitos o tempo de processamento já fica muito demorado.
+
 ## 🔗 Tecnologia Usada
 ---
 As seguintes ferramentas foram usadas na construção do projeto:
