@@ -62,7 +62,7 @@ $ dart main.dart
 # Clone este repositório
 $ git clone <https://github.com/Syggnus/desafio_escribo.git>
 
- Acesse a pasta raiz do projeto no VSCode
+# Acesse a pasta raiz do projeto no VSCode
 /desafio_escribo
 ~~~
 #### Instale no VSCode a Extensão do Dart
